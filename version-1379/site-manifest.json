@@ -1,0 +1,10 @@
+{
+  "siteName": "国产影视",
+  "title": "国产影视·免费视频在线观看平台：高清大片与推荐榜-国产好剧推荐",
+  "movieCount": 2000,
+  "detailPageCount": 2000,
+  "channelCount": 12,
+  "regionPageCount": 4,
+  "videoSourceCount": 20,
+  "coverRule": "根目录 1.jpg 到 150.jpg 循环映射，不额外生成封面图片"
+}
